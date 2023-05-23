@@ -1,0 +1,73 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 23 May, 2023 8:44 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.4
+WORDPRESS:	6.2.2
+PHP INFO:	8.0.28 | SAPI: apache2handler
+SERVER:		Apache/2.4.56 (Win64) OpenSSL/1.1.1t PHP/8.0.28 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 140MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20230523_ecommerce2_46c94d6124b2f2127514_20230523084346_database.sql
+SQL FILE SIZE: 5.88MB (6170578)
+SQL FILE TIME: 2023-05-23 08:44:24
+SQL RUNTIME: 5.89 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/Ecommerce2
+ARCHIVE FILE: 20230523_ecommerce2_46c94d6124b2f2127514_20230523084346_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	388.01MB
+STATS:	Dirs 4,234 | Files 24,468
+SQL ADDED: 20230523_ecommerce2_46c94d6124b2f2127514_20230523084346_database.sql
+ZipArchive Object
+(
+    [lastId] => 28701
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 28702
+    [filename] => C:\xampp\htdocs\Ecommerce2\wp-content\backups-dup-lite\tmp\20230523_ecommerce2_46c94d6124b2f2127514_20230523084346_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 28701
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 179.57MB
+ARCHIVE RUNTIME: 192.70 sec.
+MEMORY STACK: 144MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 5.88MB
+INSTALLER FILE: 73.35KB
+ARCHIVE FILE: 181.84MB 
+EXPECTED FILE/DIRECTORY COUNT: 28,702
+ACTUAL FILE/DIRECTORY COUNT: 28,701
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 201.21 sec.
+PEAK PHP MEMORY USED: 150MB
+DONE PROCESSING => 20230523_ecommerce2 23 May, 2023 8:47 am
+
